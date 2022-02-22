@@ -41,4 +41,13 @@ My name is Michał Bajda and I'm from Parczew. I am master of Law and I studied 
 ISTQB Foundation Level
 
 
+# Books 
+R. Smilgin - "Zawód Tester"
+
+# Facebook groups
+
+* Tester oprogramowania - wsparcie na starcie
+* Testowanie oprogramowania
+* QA Testers
+
 
